@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/appsecura/iss/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [c](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -22,6 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+[1]:{{ site.url }}/download/file.pdf
 
 [https://github.com/appsecura/iss/raw/gh-pages/app-release.aab](url) and ![Image](src)
 ```
