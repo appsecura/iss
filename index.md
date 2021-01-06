@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[button url="http://www.google.com"]
+<button name="button">Click me</button>
 
 You can use the [editor on GitHub](https://github.com/appsecura/iss/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
